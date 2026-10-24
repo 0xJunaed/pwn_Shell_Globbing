@@ -1,4 +1,6 @@
 
+# Shell Globbing (Complete Notes).md
+
 ### Concept
 Glob = shell feature. When an argument has a wildcard, the **shell** (not the command) replaces it with all matching filenames *before* running the command.
 
